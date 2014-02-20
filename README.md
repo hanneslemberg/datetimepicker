@@ -1,5 +1,10 @@
 datetimepicker
 ==============
+Fork of the original datetimepicker with a few planned changes
+* accept a real object as date value
+* remove inlined javascript libraries 
+* require-js compatiblity 
+
 [Documentation][doc]
 
 
